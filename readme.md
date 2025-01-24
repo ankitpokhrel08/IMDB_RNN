@@ -18,8 +18,8 @@ The "RNN Movie Review Analysis" app leverages a Recurrent Neural Network (RNN) t
 ### Steps
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/RNN_Movie_Review_Analysis.git
-    cd RNN_Movie_Review_Analysis
+    git clone https://github.com/ankitpokhrel08/IMDB_RNN.git
+    cd IMDB_RNN
     ```
 
 2. **Create and activate a virtual environment**:
@@ -41,11 +41,11 @@ The "RNN Movie Review Analysis" app leverages a Recurrent Neural Network (RNN) t
 ## Usage
 1. Open the app in your browser (usually at `http://localhost:8501`).
 2. Enter your name and movie review in the provided fields.
-3. Click on "Generate Analysis" to see the sentiment analysis and star rating.
+3. Click "Generate Analysis" for sentiment analysis and star rating.
 
 ## Files
 - `app.py`: Main application file for Streamlit.
-- `simplernn.ipynb`: Jupyter notebook for training the RNN model.
+- `simplernn.ipynb`: Jupyter notebook for RNN model training.
 - `embedding.ipynb`: Jupyter notebook for embedding representation.
 - `requirements.txt`: List of required Python packages.
 - `simple_rnn_imdb.h5`: Pre-trained RNN model file.
@@ -58,12 +58,6 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 ## License
 This project is licensed under the MIT License.
-
-## Acknowledgements
-- [Streamlit](https://streamlit.io/)
-- [TensorFlow](https://www.tensorflow.org/)
-- [Keras](https://keras.io/)
-- [IMDB Dataset](https://www.imdb.com/interfaces/)
 
 ## Contact
 For any questions or feedback, please contact [Ankit Pokhrel](mailto:pokhrelankit2004@example.com).
